@@ -1,0 +1,18 @@
+.header_menu {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+}
+
+.item {
+    color: #fff;
+    display: inline-block;
+    border: 2px solid;
+    margin-top: 35px;
+}
+
+p {
+    position: relative;
+    top: 100px;
+}
